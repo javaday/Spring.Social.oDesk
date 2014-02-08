@@ -59,6 +59,7 @@
     <Compile Include="Api\IoDesk.cs" />
     <Compile Include="Api\Job.cs" />
     <Compile Include="Api\JobClient.cs" />
+    <Compile Include="Api\oDeskApiException.cs" />
     <Compile Include="Api\oDeskErrorHandler.cs" />
     <Compile Include="Api\SearchParameters.cs" />
     <Compile Include="Api\SearchResults.cs" />
